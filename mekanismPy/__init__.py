@@ -1,0 +1,6 @@
+__copyright__ = "Copyright (C) 2023 hihimamu"
+__license__ = "MIT"
+__version__ = "1.0.0"
+__author__ = "hihimamu"
+__author_email__ = "hihimamug14@gmail.com"
+__url__ = "https://github.com/hihimamuLab/mekanismPy.git"
